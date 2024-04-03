@@ -7,4 +7,4 @@ git勉強用（branchとかmergeとか）
 ## git勉強用（branchとかmergeとか）
 ## 1
 ## kenta brach 作成
->>>>>>> kenta
+## main branch に再度add commit pushしました
