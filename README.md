@@ -7,3 +7,4 @@
 ## kenta brach 作成
 ## main branch に再度add commit pushしました
 ## naoki branch作成
+## naoki branch merge
